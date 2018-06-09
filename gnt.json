@@ -1,8 +1,29 @@
 {
   "ms-id": "p46",
+  "resources": [
+    "http://www.csntm.org/Manuscript/View/GA_P46",
+    "https://www.lib.umich.edu/reading/Paul",
+    "http://www.cbl.ie/getdoc/4a02241d-54b6-446f-9f34-dbfda9a3f0f8/Letters-of-Paul-(P46)-English.aspx",
+    "http://www.bible-researcher.com/links19.html",
+    "http://ntvmr.uni-muenster.de/community/modules/papyri/?zoom=66&left=2&top=49&site=INTF&image=10046/0/1690/40/1596"
+  ],
   "documents": [
     {
-      "titles": ["1 Thessalonians"]
+      "title": "1 Thessalonians",
+      "alt-titles": ["ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α´"],
+      "texts": {
+        "inscriptio": {
+          "location": "",
+          "text": "προς <lac>[θεσσαλονι]</lac>κ̣εις [<sl>α</sl>]"
+        },
+        "1:1": {
+          "location": "",
+          "text": ""
+        }
+      }
+    },
+    {
+      "title": "Galatians"
     }
   ]
 }
