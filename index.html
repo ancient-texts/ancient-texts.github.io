@@ -23,13 +23,8 @@
     </noscript>
     <div id="root"></div>
     <script>
-      ;
+      const gnt = fetch('https://ancient-texts.github.io/gnt.json').then((resp) => resp.json());
 
-      const text = React.createElement(
-        'p',
-        { id: 'text' },
-        fetch('https://ancient-texts.github.io/gnt.json').then((resp) => resp.json())
-      );
       const title = React.createElement(
         'h1',
         { id: 'title' },
@@ -40,8 +35,27 @@
         {id: 'header'},
         title
       );
-      ReactDOM.render(
+
+      const text = React.createElement(
+        'p',
+        { id: 'text' },
+        gnt.id
+      );
+      const main = React.createElement(
+        'main',
+        {id: 'main'},
+        text
+      );
+
+      const app = React.createElement(
+        'div',
+        {id: 'app'},
         header,
+        main
+      );
+
+      ReactDOM.render(
+        app,
         document.getElementById('root')
       );
     </script>
