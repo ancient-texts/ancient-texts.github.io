@@ -23,7 +23,12 @@
     </noscript>
     <div id="root"></div>
     <script>
-      const gnt = fetch('https://ancient-texts.github.io/gnt.json').then((resp) => resp.json());
+      let gnt;
+      let documents;
+      fetch('https://ancient-texts.github.io/gnt.json').then(resp => {
+        gnt = resp.json();
+        documents = gnt.documents;
+      });
 
       const title = React.createElement(
         'h1',
@@ -36,10 +41,12 @@
         title
       );
 
+      console.log(documents);
+
       const text = React.createElement(
         'p',
         { id: 'text' },
-        gnt.id
+        'gnt'
       );
       const main = React.createElement(
         'main',
