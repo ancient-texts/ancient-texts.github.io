@@ -1,11 +1,23 @@
 SBLGNT 1Th Title    ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α 
 
+
 SBLGNT 1Th 1:1  Παῦλος καὶ Σιλουανὸς καὶ Τιμόθεος τῇ ἐκκλησίᾳ Θεσσαλονικέων ἐν θεῷ πατρὶ καὶ κυρίῳ Ἰησοῦ Χριστῷ· χάρις ὑμῖν καὶ ⸀εἰρήνη. 
+
 SBLGNT-MIN-UNDEC 1Th 1:1    παυλος και σιλουανος και τιμοθεος τῇ ἐκκλησίᾳ Θεσσαλονικέων ἐν θεῷ πατρὶ καὶ κυρίῳ Ἰησοῦ Χριστῷ· χάρις ὑμῖν καὶ ⸀εἰρήνη.
+
 P46 1Th 1:1   [ΠΑ]ΥΛΟΣ ΚΑΙ Σ[ΙΛΟΥΑΝΟΣ ΚΑΙ ΤΙΜΟΘΕΟΣ ΤΗ ΕΚΚΛΗΣΙΑ Θεσσαλονικέων ἐν θεῷ πατρὶ καὶ κυρίῳ Ἰησοῦ Χριστῷ· χάρις ὑμῖν καὶ ⸀εἰρήνη.
+
 01 1Th 1:1   ΠΑΥΛΟΣ ΚΑΙ ΣΙΛΟΥΑΝΟΣ ΚΑΙ ΤΙΜΟΘΕΟΣ ΤΗ ΕΚΚΛΗΣΙΑ Θεσσαλονικέων ἐν θεῷ πατρὶ καὶ κυρίῳ Ἰησοῦ Χριστῷ· χάρις ὑμῖν καὶ ⸀εἰρήνη.
-ALEX-COMM 1Th 1:1   
+
+ALEX-COMM 1Th 1:1   Assuming an intentional ordering of the authorial names, there was an obvious ranking among the three listed here (it's also in alphabetical order!). The word ἐκκλησίᾳ, commonly translated as church, is here rendered in a more generic way in an effort to emphasize the group of addressees meeting together and not the place or building in which they met.
+
+ALEX-TRANS 1Th 1:1  Paul and Silvanus and Timothy: to the assembly
+
 ALEX-REFS 1Th 1:1   http://ntvmr.uni-muenster.de/manuscript-workspace?docID=10046,http://www.csntm.org/Manuscript/View/GA_01
+
+
+
+
 
 1Th 1:2	Εὐχαριστοῦμεν τῷ θεῷ πάντοτε περὶ πάντων ὑμῶν ⸀μνείαν ποιούμενοι ἐπὶ τῶν προσευχῶν ἡμῶν, ἀδιαλείπτως 
 1Th 1:3	μνημονεύοντες ὑμῶν τοῦ ἔργου τῆς πίστεως καὶ τοῦ κόπου τῆς ἀγάπης καὶ τῆς ὑπομονῆς τῆς ἐλπίδος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἔμπροσθεν τοῦ θεοῦ καὶ πατρὸς ἡμῶν, 
